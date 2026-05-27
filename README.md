@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kritanshu Jaiswal 👋</h1>
+<h1 align="center">Hi, I'm Kritanshu Jaiswal </h1>
 
 <p align="center">
   <b>Aspiring AI/ML Researcher</b> · Gurgaon, Haryana, India<br/>
@@ -15,41 +15,39 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 I'm a self-driven ML learner who believes in **understanding before typing** — building genuine intuition for every algorithm before implementing it.
 
-- 🔬 Applying to **Algoverse** for Applied AI + LLM Research tracks
-- 📖 Currently studying: Transformer architectures & attention mechanisms
-- 🧪 Learning by doing: 4 end-to-end ML projects and growing
-- 🎯 Goal: Co-author a research paper at a NeurIPS or ACL workshop
-- 🌍 Based in **Gurgaon, India** — open to remote research collaboration
+-  Currently studying: Transformer architectures & attention mechanisms
+-  Goal: Co-author a research paper at a NeurIPS or ACL workshop
+- Based in **Gurgaon, India** — open to remote research collaboration
 
 > *"Don't copy the code. Understand why it works."*
 
 ---
 
-## 🚀 Projects
+##  Projects
 
-### 📧 [Spam / Ham Email Classifier](https://github.com/phoenix7joad/spam-ham-classifier)
+###  [Spam / Ham Email Classifier](https://github.com/phoenix7joad/spam-ham-classifier)
 NLP pipeline with TF-IDF vectorisation + Naïve Bayes / SVM. Achieved >97% accuracy with full precision-recall analysis.  
 `Python` `Scikit-learn` `NLTK` `TF-IDF`
 
 ---
 
-### 🚢 [Titanic Survival Prediction](https://github.com/phoenix7joad/titanic-survival)
+###  [Titanic Survival Prediction](https://github.com/phoenix7joad/titanic-survival)
 Binary classification with feature engineering (family size, title extraction) and hyperparameter tuning via GridSearchCV.  
 `Python` `Pandas` `Random Forest` `Gradient Boosting`
 
 ---
 
-### 🌸 [Iris Flower Classification](https://github.com/phoenix7joad/iris-classification)
+###  [Iris Flower Classification](https://github.com/phoenix7joad/iris-classification)
 Multi-class classification comparing KNN, SVM, and Decision Trees with decision boundary visualisations.  
 `Python` `Scikit-learn` `Matplotlib` `Seaborn`
 
 ---
 
-### 🍷 [Wine Quality Prediction](https://github.com/phoenix7joad/wine-quality)
+### [Wine Quality Prediction](https://github.com/phoenix7joad/wine-quality)
 Regression + classification on physicochemical attributes, with correlation heatmaps and feature importance analysis.  
 `Python` `NumPy` `Pandas` `Scikit-learn`
 
@@ -66,7 +64,7 @@ Regression + classification on physicochemical attributes, with correlation heat
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 - [ ] Transformer architecture (reading *Attention Is All You Need*)
 - [ ] Fine-tuning pre-trained LLMs
@@ -75,11 +73,11 @@ Regression + classification on physicochemical attributes, with correlation heat
 
 ---
 
-## 📫 Connect
+##  Connect
 
-- 📍 Gurgaon, Haryana, India
-- 📧 [your.email@gmail.com]
-- 💼 [LinkedIn — add your link]
+-  Gurgaon, Haryana, India
+- [krnshujaiswal2024@gmail.com]
+- [https://www.linkedin.com/in/kritanshu-jaiswal-22324a32a?utm_source=share_via&utm_content=profile&utm_medium=member_android]
 
 ---
 
