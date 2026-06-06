@@ -23,7 +23,7 @@ I'm a self-driven ML learner who believes in **understanding before typing** —
 -  Goal: Co-author a research paper at a NeurIPS or ACL workshop
 - Based in **Gurgaon, India** — open to remote research collaboration
 
-> *"Don't copy the code. Understand why it works."*
+
 
 ---
 
