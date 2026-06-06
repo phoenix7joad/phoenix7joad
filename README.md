@@ -53,7 +53,7 @@ Regression + classification on physicochemical attributes, with correlation heat
 
 ---
 
-## 🛠️ Skills
+##  Skills
 
 | Area | Tools |
 |------|-------|
