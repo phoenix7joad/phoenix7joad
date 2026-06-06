@@ -17,10 +17,9 @@
 
 ##  About Me
 
-I'm a self-driven ML learner who believes in **understanding before typing** — building genuine intuition for every algorithm before implementing it.
+I'm a self-driven ML learner.
 
 -  Currently studying: Transformer architectures & attention mechanisms
--  Goal: Co-author a research paper at a NeurIPS or ACL workshop
 - Based in **Gurgaon, India** — open to remote research collaboration
 
 
